@@ -34,7 +34,7 @@
     "medium-editor": "^5.23.3",
     "normalize.css": "7.0.0",
     "v-tooltip": "^2.0.0-rc.30",
-    "vee-validate": "2.0.0-rc.7",
+    "vee-validate": "2.2.15",
     "vue": "2.5.2",
     "vue-bulma-expanding": "0.0.1",
     "vue-chartjs": "^2.8.1",
