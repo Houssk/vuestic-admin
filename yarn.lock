@@ -2816,9 +2816,10 @@ globule@^1.0.0:
     lodash "~4.17.4"
     minimatch "~3.0.2"
 
-google-maps@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/google-maps/-/google-maps-3.2.1.tgz#c0758f2b175a4a8d110c1abb1fc4cc38c1176e06"
+google-maps@^3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/google-maps/-/google-maps-3.3.0.tgz#4432b4715406bc15268ad35b1dd1b04d974956a6"
+  integrity sha512-pj4En0cWKG+lcBvC7qrzu5ItiMsYNTgjG2capsPzAbAM/O8ftugGpUUftTTwdGL8KlNvB4CEZ6IBWwpWYzUEpw==
 
 graceful-fs@^4.1.2, graceful-fs@^4.1.6, graceful-fs@^4.1.9:
   version "4.1.11"
@@ -6202,9 +6203,10 @@ vue-router@^3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-3.0.1.tgz#d9b05ad9c7420ba0f626d6500d693e60092cc1e9"
 
-vue-slider-component@2.3.3:
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/vue-slider-component/-/vue-slider-component-2.3.3.tgz#cac44a195e9d62004c4d5f4ec4fd62c917826c58"
+vue-slider-component@2.8.16:
+  version "2.8.16"
+  resolved "https://registry.yarnpkg.com/vue-slider-component/-/vue-slider-component-2.8.16.tgz#b2036f816ed64fa4fcd6741219b80c5063b4fd60"
+  integrity sha512-06gDoheKMU8TdqjoofIJaYfXw3uuWOXF2I14d/F5yW/8iOxnoI4Ks9WSXy8RWY+gs62GBE6tQXHDSX/H6IOaAw==
 
 vue-style-loader@3.0.1:
   version "3.0.1"
@@ -6234,6 +6236,11 @@ vue-template-es2015-compiler@^1.6.0:
 vue-toasted@^1.1.24:
   version "1.1.24"
   resolved "https://registry.yarnpkg.com/vue-toasted/-/vue-toasted-1.1.24.tgz#715a371dfa490cc710ffedaaeae61fd8a8c4f7ad"
+
+vue-yandex-maps@^0.7.9:
+  version "0.7.15"
+  resolved "https://registry.yarnpkg.com/vue-yandex-maps/-/vue-yandex-maps-0.7.15.tgz#d187144e8394e3c2e2c1095550b14f5e4ee3e927"
+  integrity sha512-hO/eyNgt0NmKOeR6rTagxz+0vLFqN0iUrGrLyJUvbNsEsfO0VxIwy+3jROjSkVN+9cmiCaFK0XwYyXKHwkvt5w==
 
 vue2-circle-progress@^1.0.3:
   version "1.2.3"
